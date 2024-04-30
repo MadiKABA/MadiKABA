@@ -34,9 +34,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=youmasther&show_icons=true&theme=tokyonight&locale=en" alt="Youmasther's github stats" /></a> | <a href="https://github.com/youmasther/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madikaba&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madikaba&&theme=tokyonight" alt="madikaba" /></p>
